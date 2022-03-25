@@ -1,1 +1,0 @@
-# eyyupordueri.github.io
