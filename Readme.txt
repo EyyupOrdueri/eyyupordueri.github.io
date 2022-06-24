@@ -3,5 +3,4 @@ Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
-
-[Click here to see my page](https://eyyupordueri.github.io/)
+[Click Here](https://eyyupordueri.github.io/)
