@@ -1,6 +1,4 @@
-#My Page
-
-[Click Here to See](https://eyyupordueri.github.io/)
+https://eyyupordueri.github.io/
 
 Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
